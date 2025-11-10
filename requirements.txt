@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=1.4
+asyncpg
+databases
+redis>=4.5
+pydantic
+python-multipart
