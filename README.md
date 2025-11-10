@@ -1,1 +1,1 @@
-Backend: FastAPI app. Start via uvicorn app.main:app. Uses DATABASE_URL and REDIS_URL env vars.
+Frontend: Vite + React. Install with npm install and run `npm run dev`.
